@@ -11,7 +11,7 @@
 | 5주차 | #2533 | 풀었다! | DFS DP |
 | 6주차 | #10942 | 풀었다! |  |
 | 7주차 |  |  |  |
-| 8주차 |  |  |  |
+| 8주차 | #7576 | 풀었다! | BFS |
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
