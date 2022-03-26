@@ -3,7 +3,7 @@
 int main()
 {
     int n, m;
-    int arr[1000][100] = {
+    int arr[100][100] = {
         0,
     };
     int result = 0;
